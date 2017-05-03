@@ -37,11 +37,12 @@ body {
 
 .music {
 	position:absolute;
-	width: 500px;
-	height: 500px;
+	width: 100px;
+	height: 50px;
 }
 
 .kevinpic {
+	padding: 10px 10px 10px 0px;
 	height: 500px;
 	width: 500px;
 }
@@ -101,8 +102,14 @@ input[type=reset]:hover {
 	justify-content: right:;
 }
 
+.bottom.col-sm-2 {
+
+}
+
+
 #copyright {
-	font-size: 18px;
+	text-align:center;
+	font-size: 16px;
 	font-style: bold;
 }
 
