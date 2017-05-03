@@ -16,11 +16,11 @@ body {
 #title2 {
 	text-align: center;
 	text-shadow: 2px 2px #ada29a;
-	font-size: 18px;
+	font-size: 14px;
 	font-style: italic;
 	width: 100%;
-    padding: 10px;
-    margin: 10px;
+    padding: 0px 10px 0px 30px;
+    margin: 0px;
 }
 
 .navigation {
@@ -101,11 +101,6 @@ input[type=reset]:hover {
 	padding: 10px;
 	justify-content: right:;
 }
-
-.bottom.col-sm-2 {
-
-}
-
 
 #copyright {
 	text-align:center;
