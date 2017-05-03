@@ -33,7 +33,7 @@ body {
 
 .headshot {
 	width: 300px;
-	height: 400px;
+	height: 300px;
 }
 
 .music {
@@ -94,10 +94,12 @@ input[type=reset]:hover {
 
 #legend {
 	color:blue;
-	font-size: 16px;
+	font-size: 14px;
+	width:150px;
 	background-color: #ada29a;
 	border: solid blue;
-	padding: 15px;
+	padding: 10px;
+	justify-content: right:;
 }
 
 #copyright {
